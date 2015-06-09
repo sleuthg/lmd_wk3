@@ -1,0 +1,21 @@
+{
+  "name": "studyGuideWeek4",
+  "version": "1.0.0",
+  "description": "Learn.Modern Developer Study Guide Week 4",
+  "main": "test_wk3.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sleuthg/lmd_wk4"
+  },
+  "author": {
+    "name": "Trevor Gile",
+    "email": "sleuthg@gmail.com",
+    "url": "http://www.linkedin.com/in/trevorgile"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
